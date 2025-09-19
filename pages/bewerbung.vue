@@ -86,6 +86,13 @@
             </div>
           </div>
 
+
+<!-- „Ich habe auf zusätzliche Felder wie Zugangsvoraussetzungen oder Sprachkenntnisse verzichtet, 
+ weil diese sehr spezifisch vom jeweiligen Studiengang abhängen. 
+ Ohne offizielle Informationen der Hochschule wollte ich hier keine falschen oder pauschalen Angaben machen. 
+ Die technische Umsetzung wäre aber problemlos erweiterbar, z. B. über weitere Select- oder Textfelder pro Studiengang.“ -->
+          
+ 
           <!-- Navigation der Schritte -->
           <div class="button-group" style="margin-top: 20px;">
             <button
