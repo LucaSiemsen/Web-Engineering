@@ -1,0 +1,3 @@
+Admin Login:
+E-Mail: admin@fh-kiel.de
+Passwort: test1234
