@@ -1,4 +1,11 @@
+// nuxt.config.ts
 export default defineNuxtConfig({
+  app: {
+    baseURL: '/Web-Engineering/'   // <- exakt dein Repo-Name
+  },
+  nitro: {
+    preset: 'github-pages'          // legt u.a. .nojekyll an
+  },
   runtimeConfig: {
     public: {
       supabaseUrl: process.env.SUPABASE_URL || '',
